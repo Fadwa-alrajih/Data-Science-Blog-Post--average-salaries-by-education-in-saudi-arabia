@@ -68,7 +68,11 @@ This function gives total the duplicate data
 
 print(df.duplicated().sum()) 
 
-Conclusion:
+Libraries used : PANDAS , MATPLOTLIB
+
+Motivation for this Project: I went through some datasets and this one was suiting my requirement of analysis of the Salary of KSA .I found this as more useful and valuable for the review of the experts and for the Job seekers. 
+
+Analysis and Conclusion:
 
 
 After the analysis with three questions, I could find out that;
@@ -82,6 +86,10 @@ After the analysis with three questions, I could find out that;
 This Dataset is available for review at : https://www.kaggle.com/majedalhulayel/average-salaries-by-education-in-saudi-arabia.
 
 I have used to Python , using Jupyter Notebook to write the code for the Visuals using third party modules Pandas and Matplotlib. 
+
+Acknowledgement: Kaggle.com 
+
+
 
 
 
